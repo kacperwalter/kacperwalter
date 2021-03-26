@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kacper and I'm happy to see you there 😄
+# Hi there 👋 I'm Kacper and I'm happy to see you 😄
 I am passionate about internet technologies, human centered design and software development. I think that life is not about dealing with trivial and easy problems. 
 
 ## 📫 How to reach me:
