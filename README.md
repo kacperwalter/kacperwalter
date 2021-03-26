@@ -6,5 +6,6 @@ I am passionate about internet technologies, human centered design and software 
 
 ## 🌱 I’m currently learning:
 ### <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="30"/> React
+<br/>
 
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperwalter)](https://github.com/anuraghazra/github-readme-stats)
