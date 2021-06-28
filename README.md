@@ -6,7 +6,7 @@ I am passionate about internet technologies, human centered design and software 
 
 ## 🌱 I’m currently learning:
 
-### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> ### Algorithms & Data Structures
+### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
 <br/>
 
 ### <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="react" height="30"/> &nbsp; Vim 
