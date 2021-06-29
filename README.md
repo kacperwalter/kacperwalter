@@ -9,7 +9,4 @@ I am passionate about internet technologies, human centered design and software 
 ### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
 <br/>
 
-### <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="react" height="30"/> &nbsp; Vim 
-<br/>
-
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperwalter&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
