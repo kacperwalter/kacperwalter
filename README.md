@@ -32,7 +32,5 @@ I am passionate about internet technologies, human centered design and software 
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 
-<br>
-
 ## 🙆🏻‍♂️ Stats:
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperwalter&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
