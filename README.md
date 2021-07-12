@@ -1,3 +1,4 @@
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 # Hi there 👋 I'm Kacper and I'm happy to see you 😄
 I am passionate about internet technologies, human centered design and software development. I think that life is not about dealing with trivial problems. 
 
@@ -7,9 +8,7 @@ I am passionate about internet technologies, human centered design and software 
 ## 🌱 I’m currently learning:
 
 ### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
-<br/>
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 ## 👨🏻‍💻 Current tech stack:
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
@@ -33,4 +32,7 @@ I am passionate about internet technologies, human centered design and software 
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 
+<br>
+
+## 🙆🏻‍♂️ Stats:
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperwalter&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
