@@ -10,9 +10,7 @@ I am passionate about internet technologies, human centered design and software 
 <br/>
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
-
 ## 👨🏻‍💻 Current tech stack:
-
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
