@@ -9,7 +9,7 @@ I am passionate about internet technologies, human centered design and software 
 
 ### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
 
-## 👨🏻‍💻 Current tech stack:
+## 👨🏻‍💻 My current tech stack:
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
