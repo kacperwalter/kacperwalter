@@ -1,6 +1,8 @@
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 # Hi there 👋 I'm Kacper and I'm happy to see you 😄
-I am passionate about internet technologies, human centered design and software development. I think that life is not about dealing with trivial problems. Currently working at <a href="https://www.netguru.com/" style="color: #00d563;">Netguru</a>.
+Frontend web developer with experience in long-term projects and working with marketing teams. Currently working at <a href="https://www.netguru.com/" style="color: #00d563;">Netguru</a>. In love with beautiful UI design, accessibility and automation of things.
+<br>
+I am distinguished by long-term perspective rather than quick fixes, can-do approach and strong googling skill.
 
 ## 📫 How to reach me:
 ###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Benhance](https://www.behance.net/kacwal4f66) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
