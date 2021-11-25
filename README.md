@@ -7,11 +7,11 @@ I am distinguished by long-term perspective rather than quick fixes, can-do appr
 ## 📫 How to reach me:
 ###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Benhance](https://www.behance.net/kacwal4f66) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
 
+## 👨🏻‍💻 My current tech stack <a href="https://github.com/kacperwalter/code-notes/blob/master/README.md">you can find here</a>
+
 ## 🌱 I’m currently learning:
 
 ### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
-
-## 👨🏻‍💻 My current tech stack <a href="https://github.com/kacperwalter/code-notes/blob/master/README.md">you can find here</a>
 
 
 ## 🙆🏻‍♂️ Stats:
