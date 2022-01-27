@@ -1,6 +1,6 @@
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 # Hi there 👋 
-<b>I am Kacper</b>, frontend web developer with experience in long-term projects and working with marketing teams. Currently working at <a href="https://www.netguru.com/" style="color: #00d563;">Netguru</a>. In love with beautiful UI design, accessibility and automation of things.
+<b>I am Kacper</b>, frontend web developer with experience in long-term projects and working with marketing teams. Currently working at <a href="https://www.netguru.com/" style="color: #00d563;">Netguru</a>. In love with beautiful UI's & low-level web development with attention to detail and semantic. 
 
 I am distinguished by long-term perspective rather than quick fixes, can-do approach and strong googling skill.
 
