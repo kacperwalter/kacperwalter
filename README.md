@@ -2,7 +2,7 @@
 # Hi there 👋 
 <b>I am Kacper</b>, frontend web developer with experience in long-term projects and working with marketing teams. Currently working at <a href="https://www.netguru.com/" style="color: #00d563;">Netguru</a>. In love with beautiful UI's & low-level web development with attention to detail and semantics. 
 
-I am distinguished by long-term perspective rather than quick fix approach, can-do attitude and strong googling skill.
+I am distinguished by long-term perspective instead of quick fix approach, can-do attitude and strong googling skill.
 
 ## 📫 How to reach me:
 ###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Benhance](https://www.behance.net/kacwal4f66) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
