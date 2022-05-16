@@ -13,7 +13,7 @@ I am distinguished by long-term perspective instead of quick fix approach, can-d
 
 ### 
 
-<img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" alt="react" height="30"/>  &nbsp;&nbsp;Javascript in depth
+<img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" alt="react" height="30"/> Javascript in depth
 
 
 ## 🙆🏻‍♂️ Stats:
