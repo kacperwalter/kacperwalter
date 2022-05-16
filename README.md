@@ -5,7 +5,7 @@
 I am distinguished by long-term perspective instead of quick fix approach, can-do attitude and strong googling skill.
 
 ## 📫 How to reach me:
-###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Benhance](https://www.behance.net/kacwal4f66) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
+###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Benhance](https://www.behance.net/kacwal4f66) &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
 
 ## 👨🏻‍💻 My current tech stack <a href="https://github.com/kacperwalter/code-notes/blob/master/README.md">you can find here</a>
 
