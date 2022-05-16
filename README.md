@@ -11,7 +11,9 @@ I am distinguished by long-term perspective instead of quick fix approach, can-d
 
 ## 🌱 I’m currently learning:
 
-### <img align="left" src="https://e7.pngegg.com/pngimages/409/834/png-clipart-data-structures-and-algorithms-computer-icons-computer-software-others-miscellaneous-blue.png" alt="react" height="30"/> Algorithms & Data Structures
+### 
+
+<img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" alt="react" height="30"/>  &nbsp;&nbsp;Javascript in depth
 
 
 ## 🙆🏻‍♂️ Stats:
