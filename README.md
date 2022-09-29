@@ -13,7 +13,7 @@ I am driven by long-term perspective instead of quick fix approach, can-do attit
 
 ### 
 
-<img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" alt="react" height="30"/> Javascript in depth
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="react" height="30"/> THREE.js
 
 
 ## 🙆🏻‍♂️ Stats:
