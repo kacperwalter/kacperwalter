@@ -16,5 +16,3 @@ I am driven by long-term perspective instead of quick fix approach, can-do attit
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="react" height="30"/> THREE.js
 
 
-## 🙆🏻‍♂️ Stats:
-[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperwalter&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
