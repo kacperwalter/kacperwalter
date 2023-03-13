@@ -13,6 +13,6 @@ I am driven by long-term perspective instead of quick fix approach, can-do attit
 
 ### 
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="react" height="30"/> THREE.js
+<img align="left" src="https://members-csforall.imgix.net/members/logos/cs50-black.PNG" alt="react" height="30"/>
 
 
