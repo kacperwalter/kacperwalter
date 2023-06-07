@@ -9,10 +9,9 @@ I am driven by long-term perspective instead of quick fix approach, can-do attit
 
 ## 👨🏻‍💻 My current tech stack <a href="https://github.com/kacperwalter/code-notes/blob/master/README.md">you can find here</a>
 
-## 🌱 I’m currently learning:
+<!-- ## 🌱 I’m currently learning: -->
 
-### 
+<!-- ###  -->
 
-<img align="left" src="https://members-csforall.imgix.net/members/logos/cs50-black.PNG" alt="react" height="30"/>
-
+<!-- <img align="left" src="https://members-csforall.imgix.net/members/logos/cs50-black.PNG" alt="react" height="30"/> -->
 
