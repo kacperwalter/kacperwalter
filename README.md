@@ -11,7 +11,7 @@ I am driven by long-term perspective instead of quick fix approach, can-do attit
 
 <!-- ## 🌱 I’m currently learning: -->
 
-<!-- ###  -->
+<!-- ###  --> 
 
 <!-- <img align="left" src="https://members-csforall.imgix.net/members/logos/cs50-black.PNG" alt="react" height="30"/> -->
 
