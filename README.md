@@ -1,11 +1,16 @@
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 # Hi there 👋 
 I am Kacper, frontend web developer with experience in long-term product projects and as a developer in marketing teams. In love with beautiful UI's & low-level web development with attention to detail and semantics. Driven by a can-do approach and long-term perspective instead of quick fixes.
+
+## 🤓 Skills
+**Software engineering:** web development, JS ES6+, React, Next.js, API, DOM manipulations, semantic HTML, SCSS, BEM, cross-browser, RWD, layouts, building design system, SEO, DRY, Hubspot, HubL, Jinja, PageSpeed optimization 
+
+**Development tools:** proficient with Figma, terminal, CLIs, package managers, bundlers like Webpack, CircleCi, Git, GitHub, Jira, Monday
+
+**Working culture:** remote work, agile, working in sprints, mentoring, giving and receiving feedback (fan of continuous feedback), knowledge sharing
 
 ## 📫 How to reach me:
 ###  [Website](http://kacperwalter.com/) &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/kacper-walter/) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/wacperkalter/?hl=pl)
 
-## 👨🏻‍💻 My current tech stack <a href="https://github.com/kacperwalter/code-notes/blob/master/README.md">you can find here</a>
 
 <!-- ## 🌱 I’m currently learning: -->
 
