@@ -1,5 +1,5 @@
 # Hi there 👋 
-I am Kacper, frontend web developer with experience in long-term product projects and as a developer in marketing teams. In love with beautiful UI's & low-level web development with attention to detail and semantics. Driven by a can-do approach and long-term perspective instead of quick fixes.
+I am Kacper, frontend web developer with background in long-term product projects and as a developer in marketing teams, also have experience in delivering smaller websites. Focused on creating awesome UI's and mixing it with well written business logic. Driven by a can-do approach and long-term perspective instead of quick fixes.
 
 ## 🤓 Skills
 **Software engineering:** web development, JS ES6+, React, Next.js, API, DOM manipulations, semantic HTML, SCSS, BEM, cross-browser, RWD, layouts, building design system, SEO, DRY, Hubspot, HubL, Jinja, PageSpeed optimization 
