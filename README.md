@@ -11,7 +11,7 @@ I am Kacper, frontend web developer with background in long-term product project
 
 ## 🕵🏻‍♀️ For recruiters
 
- - Check my current [typical-recru-project](https://github.com/kacperwalter/typical-recru-project) to see how I write **modern JS code**. 
+ - Check my current [typical-recru-project](https://github.com/kacperwalter/typical-recru-project) to see how I write **modern TS code**. 
  - Check [Netguru](https://www.netguru.com/) website to see how I implement good **layouts and CSS**. 
 
 
