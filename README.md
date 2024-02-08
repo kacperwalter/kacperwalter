@@ -1,3 +1,4 @@
+Disclaimer: at my current job, I don't use GitHub :( so currently no Livespace related contributions here.
 
 # Hi there 👋 
 I am Kacper, frontend web developer with background in long-term product projects and as a developer in marketing teams, also have experience in delivering smaller websites. Focused on creating awesome UI's and mixing it with well written business logic. Driven by a can-do approach and long-term perspective instead of quick fixes.
