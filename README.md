@@ -1,5 +1,5 @@
 # Hi there 👋 
-I'm Kacper, creative frontend developer with design skills and solid experience in product projects and growth/marketing teams. I focus on creating outstanding user interfaces and closely collaborating with design and business teams. My passion goes beyond coding — I strive to understand the product as a whole, from planning to implementation. I enjoy working with people, finding the best solutions by blending technical expertise with user needs.
+Frontend developer with design skills and solid experience in product projects and growth/marketing teams. I focus on creating outstanding user interfaces and closely collaborating with design and business teams. My passion goes beyond coding—I strive to understand the product as a whole, from planning to implementation. I enjoy working with people, finding the best solutions by blending technical expertise with user needs.
 
 In my work, I emphasise strategic thinking and long-term results, helping me create high-value products for users. I’m open to roles that require creativity, teamwork, and anticipating market needs.
 
